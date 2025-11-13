@@ -4,6 +4,9 @@
 
 A comprehensive machine learning project comparing batch processing and online learning approaches for detecting fraudulent credit card transactions.
 
+## Video Presentation of the Initial Code
+[5 Mins Video Presentation of Code](https://drive.google.com/file/d/11fJ6qkySEMg6J06W2y3ASwboDq483VVd/view?usp=sharing)
+
 ## 📋 Overview
 
 This project implements and evaluates multiple machine learning models for credit card fraud detection using the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) from Kaggle. The analysis compares traditional batch learning algorithms with modern online (incremental) learning techniques.
