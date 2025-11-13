@@ -126,14 +126,14 @@ path = kagglehub.dataset_download("mlg-ulb/creditcardfraud")
 5. **Comparison Analysis:** Batch vs. online learning trade-offs
 
 ## F1 Score Comparison for Batch and Online Learning
-<img width="846" height="814" alt="Batch Processing" src="https://github.com/user-attachments/assets/ea2f1fce-7323-4e3b-9990-633b4bedab4a" />
+<img width="846" height="814" alt="Batch Processing" src="https://github.com/user-attachments/assets/22d89205-4d93-4b1d-a0a0-1859104a847e" />
 
 
 <img width="846" height="746" alt="Online Learning" src="https://github.com/user-attachments/assets/e9646659-6593-476a-94db-26d95511cd20" />
 
 
 ## MCC Score Comparison for Batch and Online Learning
-<img width="846" height="814" alt="Batch Processing MCC" src="https://github.com/user-attachments/assets/316d5ca6-059d-4c39-a5f7-8334e79bcc7b" />
+<img width="846" height="814" alt="Batch Processing" src="https://github.com/user-attachments/assets/d9a35166-41e9-4531-a039-64cd9b108fdb" />
 
 <img width="846" height="717" alt="Online Learning MCC" src="https://github.com/user-attachments/assets/bf25fc92-1a50-4a0a-8fd0-a59e7c3153a4" />
 
